@@ -35,8 +35,18 @@ HelpDesk is a straightforward ticketing system designed to enhance customer supp
 
 ## Screenshots
 
-![HelpDesk Screenshot 1](https://github.com/atharva21-stack/HelpDesk/blob/master/images/img1.png)
-![HelpDesk Screenshot 2](https://github.com/atharva21-stack/HelpDesk/blob/master/images/img2.png)
+![HelpDesk Screenshot 1](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img1.png)
+![HelpDesk Screenshot 2](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img2.png)
+![HelpDesk Screenshot 3](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img3.png)
+![HelpDesk Screenshot 4](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img4.png)
+![HelpDesk Screenshot 5](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img5.png)
+![HelpDesk Screenshot 6](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img6.png)
+![HelpDesk Screenshot 7](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img7.png)
+![HelpDesk Screenshot 8](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img8.png)
+![HelpDesk Screenshot 9](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img9.png)
+![HelpDesk Screenshot 10](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img10.png)
+![HelpDesk Screenshot 11](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img11.png)
+![HelpDesk Screenshot 12](https://github.com/atharva21-stack/Ticket-Support-Hub/blob/main/images/img12.png)
 
 ## Contribute
 
